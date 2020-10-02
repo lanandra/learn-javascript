@@ -1,5 +1,5 @@
 /*
-This temperature converter is used celcius as base temperature.
+This temperature converter is use celcius as base temperature.
 Changing the value on celcius temperature, then it will convert the value of other temperatures
 */
 
