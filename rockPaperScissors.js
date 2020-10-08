@@ -26,7 +26,7 @@ function getComputerChoice() {
     case 2:
       return 'scissors';
   }
-};
+}
 
 //print computer choice
 console.log(getComputerChoice());
@@ -74,7 +74,7 @@ function playGame() {
 
   console.log('Your choice : ' + userChoice);
   console.log('Computer choice : ' +computerChoice);
-  console.log(determineWinner(userChoice, computerChoice))
-};
+  console.log(determineWinner(userChoice, computerChoice));
+}
 
 playGame();
